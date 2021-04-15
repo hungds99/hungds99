@@ -36,12 +36,12 @@
    <strong>Check out my work below!</strong>
    <br><br>
    <a href="https://badges.pufler.dev">
-   <img src="https://badges.pufler.dev/visits/thuanpham2311/thuanpham2311?style=flat-square&color=blue&logo=github">
+   <img src="https://badges.pufler.dev/visits/hungds99/thuanpham2311?style=flat-square&color=blue&logo=github">
    </a>
-   <a href="https://github.com/thuanpham2311?tab=repositories">
-   <img src="https://badges.pufler.dev/repos/thuanpham2311?style=flat-square&color=blue&logo=github">
+   <a href="https://github.com/hungds99?tab=repositories">
+   <img src="https://badges.pufler.dev/repos/hungds99?style=flat-square&color=blue&logo=github">
    </a>
    <a href="https://badges.pufler.dev">
-   <img src="https://badges.pufler.dev/commits/monthly/thuanpham2311?style=flat-square&color=blue&logo=github">
+   <img src="https://badges.pufler.dev/commits/monthly/hungds99?style=flat-square&color=blue&logo=github">
    </a>
 </div>
