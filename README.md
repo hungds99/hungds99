@@ -9,11 +9,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hungds99&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="Hung's Stats" >
    </a>
    <br>
-   <a href="https://www.instagram.com/thuanpham2311">
+   <a href="https://www.instagram.com/hungds99">
    <img src="./img/icons/instagram.svg" width="24px"/>
    </a>
    &emsp;
-   <a href= "https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw">
+   <a href= "https://www.youtube.com">
     <img src="./img/icons/youtube.svg" width="28px"/>
    </a>
    &emsp;
@@ -25,11 +25,11 @@
    <img src="./img/icons/chat.svg" width="26px"/>
    </a>
    &emsp;
-   <a href="mailto:phamtanthuan2311@gmail.com">
+   <a href="mailto:dinhsyhung99@gmail.com">
    <img src="./img/icons/gmail.svg" width="26px"/>
    </a>
    &emsp;
-   <a href="http://linkedin.com/in/thuanpham2311">
+   <a href="http://linkedin.com/in/dinhsyhung99">
    <img src="./img/icons/linkedin.svg" width="26px"/>
    </a>
    <br><br>
