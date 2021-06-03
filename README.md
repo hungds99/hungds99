@@ -11,6 +11,8 @@
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring%20-%2320232a.svg?&style=for-the-badge&logo=spring&logoColor=%2361DAFB)
+![Hibernate](https://img.shields.io/badge/hibernate%20-%2320232a.svg?&style=for-the-badge&logo=hibernate&logoColor=%2361DAFB)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
