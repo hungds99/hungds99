@@ -1,8 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on IOTLink Company
-- 🌱 I’m currently learning at UDA
-- :art: Ask me about Java or Javascript
+### Hi there 👋, I'm Hùng
  <br>
 <div align="center">
    <a href="https://github.com/hungds99" class="rich-diff-level-one">
@@ -11,10 +7,4 @@
    <br>
    <strong>Check out my work below!</strong>
    <br><br>
-   <a href="https://badges.pufler.dev">
-   <img src="https://badges.pufler.dev/visits/hungds99/thuanpham2311?style=flat-square&color=blue&logo=github">
-   </a>
-   <a href="https://github.com/hungds99?tab=repositories">
-   <img src="https://badges.pufler.dev/repos/hungds99?style=flat-square&color=blue&logo=github">
-   </a>
 </div>
