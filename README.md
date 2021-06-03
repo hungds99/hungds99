@@ -4,7 +4,7 @@
  ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%2300ADD8.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java%20-%230db7ed.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Technologies
