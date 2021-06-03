@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Hùng
 
-### Connect with me:
 [![Facebook](https://img.shields.io/badge/facebook%20-%23013243.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hung1006/)
 
 ---
