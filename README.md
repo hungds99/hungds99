@@ -1,21 +1,7 @@
+-----------
+
 ### Hi there 👋, I'm Hùng (Ethan). Welcome to my github profile. 👨‍💻
 
 -----------
 
-
-Connect with me :
-- Mail: dinhsyhung99@gmail.com
-- Linked: https://www.linkedin.com/in/dinhsyhung99/
-
-Languages and Tools:
-![javascript-original](https://user-images.githubusercontent.com/34293141/179018668-c1b62091-8aa4-4c9a-828a-b80b5f5f03b6.svg)
-
-- React![typescript-plain](https://user-images.githubusercontent.com/34293141/179019120-29c97ca1-b698-4008-9031-fe5b474d9c0e.svg)
-
-- Redux
-
-- GrapQL
-- NodeJS
-- AWS Lambda
-- AWS DynamoDB
-- Google Firebase
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
