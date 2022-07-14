@@ -9,8 +9,9 @@ Connect with me :
 
 Languages and Tools:
 ![javascript-original](https://user-images.githubusercontent.com/34293141/179018668-c1b62091-8aa4-4c9a-828a-b80b5f5f03b6.svg)
-- TS
-- React
+
+- React![typescript-plain](https://user-images.githubusercontent.com/34293141/179019120-29c97ca1-b698-4008-9031-fe5b474d9c0e.svg)
+
 - Redux
 
 - GrapQL
