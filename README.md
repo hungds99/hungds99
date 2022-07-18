@@ -26,4 +26,5 @@
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179553338-dd7d9672-a40d-4372-b042-183621edb47c.png" alt="react" height="30" width="30" />
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179553594-14ccf615-3857-4bfc-add8-1ade4c3a1aaf.png" alt="nodeJS" height="30" width="30" />
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179554452-2f524d0d-4c39-4975-856e-6b85e7b29f67.png" alt="vscode" height="30" width="30" />
+&nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179555308-6ab40fdd-8e20-477b-962b-57998cadc9e8.png" alt="git" height="30" width="30" />
 </p>
