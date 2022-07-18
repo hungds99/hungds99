@@ -1,6 +1,9 @@
 <h1 align='center'>Hi there 👋, I'm Hùng (Ethan). Welcome to my github profile. 👨‍💻</h1>
-<div>
+<div style={
+display: 'flex'
+     }>
   <img src="https://user-images.githubusercontent.com/34293141/179540336-f206e4e2-9280-470d-879f-f2a63b2b5f1d.gif"/>
+  <img src="https://user-images.githubusercontent.com/34293141/179541250-9070b831-2379-4a67-a8a8-196bfbf2daa2.gif"/>
 </div>
 
 This is the place where I opensource stuff and break things 🤣
