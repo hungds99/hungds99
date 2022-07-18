@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things 🤣
           - ⚡  Fun fact: Becoming a true full stack developer is more of a an approach to things than it is a fixed state. You don’t need books, you need a growth mindset.
      </div>
      <div>
-          <img src="https://hungds99.githubusercontent.com/34293141/179542489-ae5c93b8-1290-4af1-8ae4-5ae5b0b8008f.gif" />
+          <img src="https://user-images.githubusercontent.com/34293141/179542489-ae5c93b8-1290-4af1-8ae4-5ae5b0b8008f.gif" />
      </div>
 </div>
 
