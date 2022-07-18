@@ -10,7 +10,7 @@
        <li>⚡  Fun fact: Becoming a true full stack developer is more of a an approach to things than it is a fixed state. You don’t need books, you need a growth mindset.</li>
      </ul>
      <div>
-          <img src="https://user-images.githubusercontent.com/34293141/179542489-ae5c93b8-1290-4af1-8ae4-5ae5b0b8008f.gif" />
+          <img src="https://user-images.githubusercontent.com/34293141/179542489-ae5c93b8-1290-4af1-8ae4-5ae5b0b8008f.gif" width={100} height={200}/>
      </div>
 </div>
 
