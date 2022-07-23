@@ -30,8 +30,8 @@
 
 <h3 align="center">:construction: Git Activities :construction:</h3>
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"/>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"/></a>
 </>
 <p align="right">
-    <a href="https://github.com/hungds99/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=dracula" height="200px"/></a>
+    <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=dracula" height="200px"/></a>
 </p>
