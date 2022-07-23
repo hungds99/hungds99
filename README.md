@@ -29,6 +29,9 @@
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179555308-6ab40fdd-8e20-477b-962b-57998cadc9e8.png" alt="git" height="30" width="30" />
 
 <h3 align="center">:construction: Git Activities :construction:</h3>
-<p align="center">
+<p align="left">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"/>
+</>
+<p align="right">
     <a href="https://github.com/hungds99/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=dracula" height="200px"/></a>
 </p>
