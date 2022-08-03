@@ -28,7 +28,7 @@
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179554452-2f524d0d-4c39-4975-856e-6b85e7b29f67.png" alt="vscode" height="30" width="30" />
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179555308-6ab40fdd-8e20-477b-962b-57998cadc9e8.png" alt="git" height="30" width="30" />
 
-<h3 align="center">:construction: Git Activities :construction:</h3>
+:construction: **Git Activities**
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=codeSTACKr&hide_border=true" width="320"/></a>
     <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true" width="400"/></a>
