@@ -1,11 +1,10 @@
 <h1 align='center'>Hi 👋, I'm Hùng (Ethan). Welcome to my GitHub profile. 👨‍💻</h1>
 
-:monocle_face: This is the place where I opensource stuff and break things !!!
+:monocle_face: This is the place where I open source stuff and break things !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
-- 🔭  I’m currently working on AWS Serverless with DynamoDB, Lambda, API Gateway.
+- 🔭  I’m currently working on AWS Serverless Architecture with DynamoDB, Lambda, API Gateway.
 - 🌱  I’m currently learning Web3.
 - 💬  Ask me about anything related to Javascript/Typescript or React/Express.
-- ⚡  Fun fact: Becoming a true full stack developer is more of a an approach to things than it is a fixed state. You don’t need books, you need a growth mindset.
 
 :speech_balloon: **Connect with me**
 
