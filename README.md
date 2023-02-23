@@ -3,7 +3,7 @@
 :monocle_face: This is the place where I open source stuff and break things !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
 - 🔭  I’m currently working on AWS Serverless Architecture with DynamoDB, Lambda, API Gateway.
-- 🌱  I’m currently learning Web3.
+- 🌱  I’m currently learning Shopify.
 - 💬  Ask me about anything related to Javascript/Typescript or React/Express.
 
 :speech_balloon: **Connect with me**
@@ -29,6 +29,6 @@
 
 :construction: **Git Activities**
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=codeSTACKr&hide_border=true" width="320"/></a>
-    <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true" width="400"/></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=calm&hide_border=true" width="320"/></a>
+    <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=calm&hide_border=true" width="400"/></a>
 </p>
