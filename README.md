@@ -1,12 +1,13 @@
 <h1 align='center'>Hi 👋, I'm Hùng (Ethan). Welcome to my GitHub profile. 👨‍💻</h1>
 
-:monocle_face: This is the place where I open source stuff and break things !!!
+### :monocle_face: This is the place where I open source stuff and break things !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
 - 🔭  I’m currently working on AWS Serverless Architecture with DynamoDB, Lambda, API Gateway.
 - 🌱  I’m currently learning Shopify.
 - 💬  Ask me about anything related to Javascript/Typescript or React/NodeJS.
 
-🏆 I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
+### :crab: Archivement
+- :tada: I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
 
 ### :speech_balloon: Connect with me
 
