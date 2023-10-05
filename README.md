@@ -4,6 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
 
 🔭 I’m currently working on AWS Serverless Architecture with DynamoDB, Lambda, API Gateway
+
 💬 Ask me about anything related to Javascript/Typescript or React/NodeJS.
 
 ### :crab: Archivement
