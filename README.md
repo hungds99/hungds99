@@ -3,21 +3,17 @@
 ### :monocle_face: This is the place where I open source stuff and break things !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
 
-🔭 I’m currently working on AWS Serverless Architecture with DynamoDB, Lambda, API Gateway
-
-💬 Ask me about anything related to Javascript/Typescript or React/NodeJS.
-
 ### :crab: Archivement
-:tada: I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
+- I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
 
 ### :speech_balloon: Connect with me
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:dinhsyhung99@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550556-8c34a1ac-2c01-4fa3-83f7-e6d659271b97.png" alt="dinhsyhung99@gmail.com" height="40" width="40" /></a>
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dinhsyhung99/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179548617-01ec708a-0ac6-406c-bbf4-8c7903853854.png" alt="dinhsyhung99" height="40" width="40" /></a>
-&nbsp;&nbsp;<a href="https://twitter.com/hungds99" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179548650-5194f2fd-b035-4fa8-b025-8db42fac4cb6.png" alt="H_ethan_" height="40" width="40" /></a>
-&nbsp;&nbsp;<a href="https://www.instagram.com/hungds99/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550320-621087c9-6e37-451d-be4b-df3b5183ea6d.png" alt="hung_ds_99" height="40" width="40" /></a>
-&nbsp;&nbsp;<a href="https://www.facebook.com/hung1006" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179551678-d845f7de-5bda-44fe-b14b-3a344537e359.png" alt="hung1006" height="40" width="40" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:dinhsyhung99@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550556-8c34a1ac-2c01-4fa3-83f7-e6d659271b97.png" alt="dinhsyhung99@gmail.com" height="30" width="30" /></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dinhsyhung99/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179548617-01ec708a-0ac6-406c-bbf4-8c7903853854.png" alt="dinhsyhung99" height="30" width="30" /></a>
+&nbsp;&nbsp;<a href="https://twitter.com/hungds99" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179548650-5194f2fd-b035-4fa8-b025-8db42fac4cb6.png" alt="H_ethan_" height="30" width="30" /></a>
+&nbsp;&nbsp;<a href="https://www.instagram.com/hungds99/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550320-621087c9-6e37-451d-be4b-df3b5183ea6d.png" alt="hung_ds_99" height="30" width="30" /></a>
+&nbsp;&nbsp;<a href="https://www.facebook.com/hung1006" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179551678-d845f7de-5bda-44fe-b14b-3a344537e359.png" alt="hung1006" height="30" width="30" /></a>
 </p>
 
 ### :hammer: Languages, Library, Framework and Tools
