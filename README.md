@@ -1,13 +1,13 @@
 <h1 align='center'>Hi 👋, I'm Hùng (Ethan). Welcome to my GitHub profile. 👨‍💻</h1>
 
-#### :monocle_face: This is the place where I open source stuff and break things !!!
+#### 🚀 This is the place where I open source stuff and break things !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
 
-#### :speech_balloon: Connect with me
+#### 👏 Connect with me
 
 - Email: dinhsyhung99@gmail.com
-- Phone: (+84) 0393 403 012
 - Linkedin: https://www.linkedin.com/in/dinhsyhung99/
+- Phone: (+84) 0393 403 012
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:dinhsyhung99@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550556-8c34a1ac-2c01-4fa3-83f7-e6d659271b97.png" alt="dinhsyhung99@gmail.com" height="25" width="25" /></a>
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;<a href="https://www.facebook.com/hung1006" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/34293141/179551678-d845f7de-5bda-44fe-b14b-3a344537e359.png" alt="hung1006" height="25" width="25" /></a>
 </p>
 
-#### :hammer: Languages, Library, Framework and Tools
+#### 🧰 Languages, Library, Framework and Tools
 
 - *Programming Languages:* JavaScript, TypeScript, Java
 - *Web Development:* HTML, CSS, TailwindCSS, Material UI
@@ -34,12 +34,12 @@
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179554452-2f524d0d-4c39-4975-856e-6b85e7b29f67.png" alt="vscode" height="25" width="25" />
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179555308-6ab40fdd-8e20-477b-962b-57998cadc9e8.png" alt="git" height="25" width="25" />
 
-#### :crab: Archivement
+#### 🦀 Archivement
 - I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
 
 
-#### :construction: Git Activities
+#### 💡 Git Activities
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=calm&hide_border=true" width="320"/></a>
     <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=calm&hide_border=true" width="400"/></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=calm&hide_border=true" width="310"/></a>
 </p>
