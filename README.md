@@ -1,4 +1,4 @@
-<h3 align='center'>Hi 👋, I'm Hùng (Ethan). Welcome to my GitHub profile. 👨‍💻</h3>
+<h2 align='center'>Hi 👋, I'm Hùng (Ethan). Welcome to my GitHub profile. 👨‍💻</h2>
 
 #### 🚀 This is the place where I open source stuff and break things !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
