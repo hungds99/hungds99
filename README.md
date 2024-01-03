@@ -8,6 +8,7 @@
 - Email: dinhsyhung99@gmail.com
 - Linkedin: https://www.linkedin.com/in/dinhsyhung99/
 - Phone: (+84) 0393 403 012
+- My CV: https://cv-hungds99.vercel.app/
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:dinhsyhung99@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550556-8c34a1ac-2c01-4fa3-83f7-e6d659271b97.png" alt="dinhsyhung99@gmail.com" height="25" width="25" /></a>
