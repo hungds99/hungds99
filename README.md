@@ -1,14 +1,21 @@
+<div align="center">
+    <img width="200" height="200" src="https://github.com/hungds99/hungds99/assets/34293141/c81aed99-1861-405b-8960-cc4e40dc1d40" />
+</div>
+
 <h2 align='center'>Hi 👋, I'm Hùng (Ethan). Glad to see you here. 👨‍💻</h2>
 
 #### 🚀 Here is where I open-source my projects and experiment with new ideas. !!!
 <img align="right" src="https://user-images.githubusercontent.com/34293141/179558855-91694461-710b-4290-bf2a-0753daef48ea.gif" width=300 />
 
-#### 👏 Connect with me
+#### 👏 Connect with me!
+
+
+
 
 - Email: dinhsyhung99@gmail.com
 - Linkedin: https://www.linkedin.com/in/dinhsyhung99/
 - Phone: (+84) 0393 403 012
-- My CV: https://cv-hungds99.vercel.app/
+- My CV: https://cv.hungdinh.cloud/
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" rel="noopener noreferrer nofollow" href="mailto:dinhsyhung99@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/34293141/179550556-8c34a1ac-2c01-4fa3-83f7-e6d659271b97.png" alt="dinhsyhung99@gmail.com" height="25" width="25" /></a>
