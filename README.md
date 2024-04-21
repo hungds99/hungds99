@@ -27,9 +27,9 @@
 
 #### 🧰 Languages, Library, Framework and Tools
 
-- *Programming Languages:* JavaScript, TypeScript, Java
+- *Programming Languages:* JavaScript/TypeScript, Java
 - *Front-end:* HTML, CSS, TailwindCSS, Material UI, React, Remix, NextJS
-- *Back-end:* ExpressJS, Spring, Spring Boot
+- *Back-end:* ExpressJS, NestJS, Spring, Spring Boot
 - *Tools:* Git, Docker, AWS
 
 <p ="left">
