@@ -47,6 +47,6 @@
 
 #### 💡 Git Activities
 <p align="center">
-    <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=calm&hide_border=true" width="400"  height="190"/></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=calm&hide_border=true" width="310" height="190"/></a>
+    <a href="https://github.com/hungds99/github-readme-stats"><img alt="HungDinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hungds99&show_icons=true&count_private=true&theme=calm&hide_border=true" width="auto"  height="190"/></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact"><img alt="HungDinh's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungds99&layout=compact&theme=calm&hide_border=true" width="auto" height="190"/></a>
 </p>
