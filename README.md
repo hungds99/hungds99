@@ -43,6 +43,7 @@
 
 #### 🦀 Archivement
 - I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
+ <img width="100" height="100" src="https://github.com/user-attachments/assets/38d23e07-f06a-47ec-babf-562826492ee5" />
 
 
 #### 💡 Git Activities
