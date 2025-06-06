@@ -42,8 +42,13 @@
 &nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/34293141/179555308-6ab40fdd-8e20-477b-962b-57998cadc9e8.png" alt="git" height="25" width="25" />
 
 #### 🦀 Archivement
-- I have earned the [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
- <img width="100" height="100" src="https://github.com/user-attachments/assets/38d23e07-f06a-47ec-babf-562826492ee5" />
+- [x] [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d564e827-c296-428c-ad91-b54032fe0197/public_url)
+- [x] [AWS Certified Developer – Associate](https://www.credly.com/badges/0a0e4a9c-ca9a-4985-96bf-4869af476ed4/public_url)
+
+<p align="center">
+ <img width="400" height="285" src="https://github.com/user-attachments/assets/cdf7710c-f257-4287-b2d9-9e294763d356" />
+ <img width="400" height="285" alt="image" src="https://github.com/user-attachments/assets/4bbc65ef-2267-4a5b-b94e-d7cfeb046015" />
+</p>
 
 
 #### 💡 Git Activities
